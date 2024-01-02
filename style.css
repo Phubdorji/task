@@ -1,0 +1,31 @@
+.col{
+
+padding-top: 5%;
+padding-bottom: 5%;
+box-shadow: 2px;
+}
+.card.mb-3{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    margin: auto;
+    width: 100%;
+}
+.col i{
+    text-align: center;
+    padding: 12px;
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+      border-radius: 50%;
+      background-color: aqua;
+      margin: auto;
+    
+    
+}
+.col .card-title{
+    text-align: center;
+}
+.col .card{
+    background-color:burlywood ;
+}
